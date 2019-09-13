@@ -64,8 +64,7 @@ height:200px;
 
 .left__container{
   height: 400PX;
-
-}
+  }
 
 .right__container{
   height: 400px;
@@ -84,3 +83,21 @@ height:200px;
 }
 
 /**Alex Code**/
+
+.card {
+  background-color: #911818;
+  color: white;
+  margin-top: 10px;
+  margin-left: 10px;
+ }
+
+#header_5{
+  border-bottom: 2px solid white;
+  margin-bottom: 25px;
+  
+  }
+
+.card-body {
+  margin-right: 55px;
+  margin-left: -12px;
+}
